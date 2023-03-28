@@ -18,7 +18,7 @@ body{
 .form img{
     max-width: 500px;
     width: 100%;
-    border-radius: 25px;
+    border-radius: 100px;
 }
 
 .form input[type=text],
